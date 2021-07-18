@@ -1,0 +1,28 @@
+#page_head{
+  padding-bottom: 10px;
+  border-bottom: 2px blue solid;
+  color: blue;
+
+}
+
+#page_introduce{
+
+  padding:20px;
+}
+
+
+
+header img{
+  height: 104px;
+  width: 200px;
+  float:left;
+  border: blue 1px solid;
+
+
+}
+
+header h2{
+  border-bottom :1px  #007bff solid;
+  padding-bottom : 5px;
+
+}
